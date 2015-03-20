@@ -27,3 +27,5 @@ def print_n_lines(total, f):
 
 print_n_lines(3, current_file)
 
+current_file.close()
+
